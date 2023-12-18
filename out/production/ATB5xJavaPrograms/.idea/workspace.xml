@@ -42,9 +42,22 @@
     &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Lab016">
+  <component name="RunManager" selected="Application.La015">
     <configuration name="La015" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.basics_02.La015" />
+      <module name="ATB5xJavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.basics_02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab010" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.basics_02.Lab010" />
       <module name="ATB5xJavaPrograms" />
       <extension name="coverage">
         <pattern>
@@ -95,26 +108,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab016" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basics_02.Lab016" />
-      <module name="ATB5xJavaPrograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.basics_02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab016" />
         <item itemvalue="Application.La015" />
         <item itemvalue="Application.Lab013" />
         <item itemvalue="Application.Lab012" />
         <item itemvalue="Application.Lab011" />
+        <item itemvalue="Application.Lab010" />
       </list>
     </recent_temporary>
   </component>
