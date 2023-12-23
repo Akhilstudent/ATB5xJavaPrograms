@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="64c6cbf1-e906-45f3-b931-ab6a7882ba8b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/basics_02/Lab052.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ATB5xJavaPrograms/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ATB5xJavaPrograms/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ATB5xJavaPrograms/src/basics_02/Lab033.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ATB5xJavaPrograms/src/basics_02/Lab033.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basics_02/Lab033.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics_02/Lab033.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics_02/Lab058.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics_02/Lab058.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +29,9 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2Zfbva0HtccPHPckBJoCDZs6ndD" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -42,9 +44,9 @@
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Lab048">
-    <configuration name="Lab038" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basics_02.Lab038" />
+  <component name="RunManager" selected="Application.Lab058">
+    <configuration name="Lab054" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.basics_02.Lab054" />
       <module name="ATB5xJavaPrograms" />
       <extension name="coverage">
         <pattern>
@@ -56,8 +58,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab039" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basics_02.Lab039" />
+    <configuration name="Lab055" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.basics_02.Lab055" />
       <module name="ATB5xJavaPrograms" />
       <extension name="coverage">
         <pattern>
@@ -69,8 +71,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab040" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basics_02.Lab040" />
+    <configuration name="Lab056" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.basics_02.Lab056" />
       <module name="ATB5xJavaPrograms" />
       <extension name="coverage">
         <pattern>
@@ -82,8 +84,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab047" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basics_02.Lab047" />
+    <configuration name="Lab057" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.basics_02.Lab057" />
       <module name="ATB5xJavaPrograms" />
       <extension name="coverage">
         <pattern>
@@ -95,8 +97,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab048" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basics_02.Lab048" />
+    <configuration name="Lab058" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.basics_02.Lab058" />
       <module name="ATB5xJavaPrograms" />
       <extension name="coverage">
         <pattern>
@@ -110,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab048" />
-        <item itemvalue="Application.Lab047" />
-        <item itemvalue="Application.Lab040" />
-        <item itemvalue="Application.Lab039" />
-        <item itemvalue="Application.Lab038" />
+        <item itemvalue="Application.Lab058" />
+        <item itemvalue="Application.Lab057" />
+        <item itemvalue="Application.Lab056" />
+        <item itemvalue="Application.Lab055" />
+        <item itemvalue="Application.Lab054" />
       </list>
     </recent_temporary>
   </component>
