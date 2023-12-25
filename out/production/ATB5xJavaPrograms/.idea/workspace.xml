@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="64c6cbf1-e906-45f3-b931-ab6a7882ba8b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ATB5xJavaPrograms/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ATB5xJavaPrograms/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +27,9 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2Zfbva0HtccPHPckBJoCDZs6ndD" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -39,9 +42,9 @@
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Prime_number">
-    <configuration name="Lab039" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basics_02.Lab039" />
+  <component name="RunManager" selected="Application.Lab069">
+    <configuration name="Lab061" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.basics_02.Lab061" />
       <module name="ATB5xJavaPrograms" />
       <extension name="coverage">
         <pattern>
@@ -53,8 +56,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab040" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basics_02.Lab040" />
+    <configuration name="Lab062" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.basics_02.Lab062" />
       <module name="ATB5xJavaPrograms" />
       <extension name="coverage">
         <pattern>
@@ -66,8 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab047" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basics_02.Lab047" />
+    <configuration name="Lab064" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.basics_02.Lab064" />
       <module name="ATB5xJavaPrograms" />
       <extension name="coverage">
         <pattern>
@@ -79,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab048" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basics_02.Lab048" />
+    <configuration name="Lab068" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basics_23rdDec.Lab068" />
       <module name="ATB5xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.basics_02.*" />
+          <option name="PATTERN" value="basics_23rdDec.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Prime_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basics_02.Prime_number" />
+    <configuration name="Lab069" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basics_23rdDec.Lab069" />
       <module name="ATB5xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.basics_02.*" />
+          <option name="PATTERN" value="basics_23rdDec.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Prime_number" />
-        <item itemvalue="Application.Lab048" />
-        <item itemvalue="Application.Lab047" />
-        <item itemvalue="Application.Lab040" />
-        <item itemvalue="Application.Lab039" />
+        <item itemvalue="Application.Lab069" />
+        <item itemvalue="Application.Lab068" />
+        <item itemvalue="Application.Lab064" />
+        <item itemvalue="Application.Lab062" />
+        <item itemvalue="Application.Lab061" />
       </list>
     </recent_temporary>
   </component>
@@ -155,6 +158,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/basics_02/Lab058.java</url>
+          <line>5</line>
+          <properties class="src.basics_02.Lab058" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/basics_02/Lab009.java</url>
