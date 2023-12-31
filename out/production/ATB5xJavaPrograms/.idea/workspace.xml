@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="64c6cbf1-e906-45f3-b931-ab6a7882ba8b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ATB5xJavaPrograms/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ATB5xJavaPrograms/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,13 +48,20 @@
       <recent name="basics_23rdDec" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lab0110">
-    <configuration name="Lab0105" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basics_24rdDec.Lab0105" />
+  <component name="RunManager" selected="Application.Lab112">
+    <configuration name="Lab112" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab112" />
+      <module name="ATB5xJavaPrograms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ques4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Questions.ques4" />
       <module name="ATB5xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basics_24rdDec.*" />
+          <option name="PATTERN" value="Questions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab0106" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basics_24rdDec.Lab0106" />
+    <configuration name="ques6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Questions.ques6" />
       <module name="ATB5xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basics_24rdDec.*" />
+          <option name="PATTERN" value="Questions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab0107" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basics_24rdDec.Lab0107" />
+    <configuration name="ques7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Questions.ques7" />
       <module name="ATB5xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basics_24rdDec.*" />
+          <option name="PATTERN" value="Questions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,25 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab0108" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basics_24rdDec.Lab0108" />
+    <configuration name="ques8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Questions.ques8" />
       <module name="ATB5xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basics_24rdDec.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab0110" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basics_24rdDec.Lab0110" />
-      <module name="ATB5xJavaPrograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="basics_24rdDec.*" />
+          <option name="PATTERN" value="Questions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab0110" />
-        <item itemvalue="Application.Lab0108" />
-        <item itemvalue="Application.Lab0107" />
-        <item itemvalue="Application.Lab0106" />
-        <item itemvalue="Application.Lab0105" />
+        <item itemvalue="Application.Lab112" />
+        <item itemvalue="Application.ques8" />
+        <item itemvalue="Application.ques7" />
+        <item itemvalue="Application.ques6" />
+        <item itemvalue="Application.ques4" />
       </list>
     </recent_temporary>
   </component>
@@ -174,6 +167,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Questions/ques7.java</url>
+          <line>5</line>
+          <properties class="Questions.ques7" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="40" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/basics_02/Lab009.java</url>
@@ -279,6 +281,46 @@
           <url>file://$PROJECT_DIR$/basics_23rdDec/Lab095.java</url>
           <line>18</line>
           <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/basics_24rdDec/Lab0110.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/basics_24rdDec/Lab0110.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/basics_24rdDec/Lab0110.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/basics_24rdDec/Lab0110.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Questions/ques2.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Questions/ques2.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Questions/ques2.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Questions/ques8.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="48" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
