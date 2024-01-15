@@ -6,7 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="64c6cbf1-e906-45f3-b931-ab6a7882ba8b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions/diff.java" beforeDir="false" afterPath="$PROJECT_DIR$/Questions/diff.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ATB5xJavaPrograms/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ATB5xJavaPrograms/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ATB5xJavaPrograms/Questions/diff.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ATB5xJavaPrograms/Questions/diff.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,52 +52,39 @@
       <recent name="basics_23rdDec" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lab146">
-    <configuration name="Lab143" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops_7th_Dec.Lab143" />
-      <module name="ATB5xJavaPrograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oops_7th_Dec.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab144" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops_7th_Dec.Lab144" />
-      <module name="ATB5xJavaPrograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oops_7th_Dec.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab145" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops_7th_Dec.Lab145" />
-      <module name="ATB5xJavaPrograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oops_7th_Dec.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.oops">
     <configuration name="Lab146" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops_7th_Dec.Inheritance.Lab146" />
+      <option name="MAIN_CLASS_NAME" value="oops_13th_dec.Blocks.Lab146" />
       <module name="ATB5xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oops_7th_Dec.Inheritance.*" />
+          <option name="PATTERN" value="oops_13th_dec.Blocks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab148" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops_7th_Dec.multilevel.Lab148" />
+      <module name="ATB5xJavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oops_7th_Dec.multilevel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab149" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops_7th_Dec.hierarical.Lab149" />
+      <module name="ATB5xJavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oops_7th_Dec.hierarical.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,20 +105,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="oops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops_13th_dec.Encapsulation.oops" />
+      <module name="ATB5xJavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oops_13th_dec.Encapsulation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Lab146" />
+      <item itemvalue="Application.oops" />
+      <item itemvalue="Application.Lab148" />
+      <item itemvalue="Application.Lab149" />
       <item itemvalue="Application.diff" />
-      <item itemvalue="Application.Lab143" />
-      <item itemvalue="Application.Lab144" />
-      <item itemvalue="Application.Lab145" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab146" />
+        <item itemvalue="Application.oops" />
         <item itemvalue="Application.diff" />
-        <item itemvalue="Application.Lab145" />
-        <item itemvalue="Application.Lab144" />
-        <item itemvalue="Application.Lab143" />
+        <item itemvalue="Application.Lab149" />
+        <item itemvalue="Application.Lab148" />
       </list>
     </recent_temporary>
   </component>
@@ -352,6 +353,10 @@
           <line>15</line>
           <option name="timeStamp" value="54" />
         </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArithmeticException" package="java.lang" />
+          <option name="timeStamp" value="55" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>

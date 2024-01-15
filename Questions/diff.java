@@ -8,22 +8,18 @@ public class diff {
         System.out.println("Enter number ");
         int num = sc.nextInt();
 
-        for (int i = 0; i <= num; i++) {
-            if (i%2==0){
-                System.out.println(i + " True");
-            }
-            else {
-                System.out.println(i + " False");
-            }
+        int i = 0;
 
+        if (num%2 == 0){
+            System.out.println("Even number");
+        } else if (num%2 == 1){
+            System.out.println("Odd number");
+        }else if (num%0 == 0){
+            System.out.println("Not valid");
         }
-
-
-
-
-
-
-        sc.close();
 
     }
 }
+
+
+
