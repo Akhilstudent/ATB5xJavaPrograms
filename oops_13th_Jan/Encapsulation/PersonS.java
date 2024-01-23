@@ -1,4 +1,4 @@
-package oops_13th_dec.Encapsulation;
+package oops_13th_Jan.Encapsulation;
 
 public class PersonS {
     int id;

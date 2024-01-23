@@ -1,4 +1,4 @@
-package oops_13th_dec.Abstraction;
+package oops_13th_Jan.Abstraction;
 
 abstract class Animal {
     abstract void walk();

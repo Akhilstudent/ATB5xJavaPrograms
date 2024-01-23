@@ -1,4 +1,4 @@
-package oops_13th_dec.Encapsulation;
+package oops_13th_Jan.Encapsulation;
 
 public class Pen_by_college {
     String type;
