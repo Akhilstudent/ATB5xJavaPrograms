@@ -49,29 +49,16 @@
       <recent name="C:\Users\AKHIL\IdeaProjects\ATB5xJavaPrograms\oops_14th_jan\Static" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="oops_Collection_3rd_Feb" />
       <recent name="oops_Collection_21th_Jan" />
       <recent name="oops_Collection_20th_Jan" />
       <recent name="oops_14th_jan.exception" />
       <recent name="oops_13th_dec.Polymorphism" />
-      <recent name="oops_13th_dec" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lab190">
-    <configuration name="Hashtable01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops_Collection_28th_Jan_self_pace.Map.Hashtable01" />
-      <module name="ATB5xJavaPrograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oops_Collection_28th_Jan_self_pace.Map.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab190" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops_Collection_3rd_Feb.Lab190" />
+  <component name="RunManager" selected="Application.Fibonacci">
+    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops_Collection_3rd_Feb.Fibonacci" />
       <module name="ATB5xJavaPrograms" />
       <extension name="coverage">
         <pattern>
@@ -83,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Map03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops_Collection_28th_Jan_self_pace.Map.Map03" />
+    <configuration name="is_Prime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops_Collection_3rd_Feb.is_Prime" />
       <module name="ATB5xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oops_Collection_28th_Jan_self_pace.Map.*" />
+          <option name="PATTERN" value="oops_Collection_3rd_Feb.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Map06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops_Collection_28th_Jan_self_pace.Map.Map06" />
+    <configuration name="reverse_of_digit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops_Collection_3rd_Feb.reverse_of_digit" />
       <module name="ATB5xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oops_Collection_28th_Jan_self_pace.Map.*" />
+          <option name="PATTERN" value="oops_Collection_3rd_Feb.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +96,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PMMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops_Collection_28th_Jan_self_pace.Map.PMMap" />
+    <configuration name="sum_of_digit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops_Collection_3rd_Feb.sum_of_digit" />
       <module name="ATB5xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oops_Collection_28th_Jan_self_pace.Map.*" />
+          <option name="PATTERN" value="oops_Collection_3rd_Feb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test_Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops_Collection_3rd_Feb.test_Factorial" />
+      <module name="ATB5xJavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oops_Collection_3rd_Feb.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,19 +123,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Lab190" />
-      <item itemvalue="Application.Hashtable01" />
-      <item itemvalue="Application.PMMap" />
-      <item itemvalue="Application.Map03" />
-      <item itemvalue="Application.Map06" />
+      <item itemvalue="Application.Fibonacci" />
+      <item itemvalue="Application.is_Prime" />
+      <item itemvalue="Application.reverse_of_digit" />
+      <item itemvalue="Application.sum_of_digit" />
+      <item itemvalue="Application.test_Factorial" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab190" />
-        <item itemvalue="Application.Hashtable01" />
-        <item itemvalue="Application.PMMap" />
-        <item itemvalue="Application.Map06" />
-        <item itemvalue="Application.Map03" />
+        <item itemvalue="Application.Fibonacci" />
+        <item itemvalue="Application.reverse_of_digit" />
+        <item itemvalue="Application.is_Prime" />
+        <item itemvalue="Application.sum_of_digit" />
+        <item itemvalue="Application.test_Factorial" />
       </list>
     </recent_temporary>
   </component>
@@ -224,6 +224,24 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/oops_Collection_3rd_Feb/Lab192.java</url>
+          <line>8</line>
+          <properties class="oops_Collection_3rd_Feb.Lab192" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/oops_Collection_3rd_Feb/test_Factorial.java</url>
+          <line>13</line>
+          <properties class="oops_Collection_3rd_Feb.test_Factorial" method="fact">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="60" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/basics_02/Lab009.java</url>
@@ -384,6 +402,101 @@
           <url>file://$PROJECT_DIR$/Questions/mul.java</url>
           <line>15</line>
           <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/oops_Collection_3rd_Feb/test_Factorial.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/oops_Collection_3rd_Feb/test_Factorial.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/oops_Collection_3rd_Feb/test_Factorial.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/oops_Collection_3rd_Feb/test_Factorial.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/oops_Collection_3rd_Feb/test_Factorial.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/oops_Collection_3rd_Feb/sum_of_digit.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/oops_Collection_3rd_Feb/sum_of_digit.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/oops_Collection_3rd_Feb/sum_of_digit.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/oops_Collection_3rd_Feb/sum_of_digit.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/oops_Collection_3rd_Feb/is_Prime.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/oops_Collection_3rd_Feb/is_Prime.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/oops_Collection_3rd_Feb/is_Prime.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/oops_Collection_3rd_Feb/is_Prime.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/oops_Collection_3rd_Feb/is_Prime.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/oops_Collection_3rd_Feb/reverse_of_digit.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/oops_Collection_3rd_Feb/reverse_of_digit.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/oops_Collection_3rd_Feb/reverse_of_digit.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/oops_Collection_3rd_Feb/reverse_of_digit.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/oops_Collection_3rd_Feb/reverse_of_digit.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="79" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArithmeticException" package="java.lang" />
